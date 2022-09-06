@@ -18,6 +18,6 @@
 </div>
   
   <hr/>
-<img src="https://i.pinimg.com/originals/d6/10/fe/d610febb1da0f9ab752ebdead766d1a4.gif"/>
+<img height="175em" width="30%"src="https://i.pinimg.com/originals/d6/10/fe/d610febb1da0f9ab752ebdead766d1a4.gif"/>
 <hr/>
   
