@@ -12,7 +12,7 @@
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Rafa-pic" height="170" style="border-radius:30px;" src="https://64.media.tumblr.com/3acc4660cb1274e6bc0a362d18543263/tumblr_ouh6jfomhQ1ui7oe1o1_540.gifv">
+  <img align="right" alt="Rafa-pic" height="170" style="border-radius:30px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/daiefoq-6ac799d7-e2d0-4a3d-ac57-02f4ef75937a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGFpZWZvcS02YWM3OTlkNy1lMmQwLTRhM2QtYWM1Ny0wMmY0ZWY3NTkzN2EuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bOQz0SXKFaqRMpRf_QlKaJIaeF6mItCeW-XZp-RUnBc">
 
   ## 
   
