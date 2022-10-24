@@ -22,7 +22,7 @@
 
   ## 
   
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/victor-andrey-567516204)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/victor-andrey-567516204](https://www.linkedin.com/in/victor-andrey-567516204/))
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([https://www.behance.net/victorandrey1?tracking_source=search_users|victor%20andrey](https://medium.com/@victorandrey02))
   [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/victorandrey1?tracking_source=search_users|victor%20andrey)
   <a href = "mailto:victorandrey02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
