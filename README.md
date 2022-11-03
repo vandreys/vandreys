@@ -29,4 +29,4 @@
   [![Portfólio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]()
   
   ![Snake animation](https://github.com/vandreys/vandreys/blob/output/github-contribution-grid-snake.svg)
-</div
+  </div>
