@@ -26,7 +26,6 @@
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vandreys)
   [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/victorandrey1?tracking_source=search_users|victor%20andrey)
   <a href = "mailto:victorandrey02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  [![Portfólio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]()
   
   ![Snake animation](https://github.com/vandreys/vandreys/blob/output/github-contribution-grid-snake.svg)
   </div>
