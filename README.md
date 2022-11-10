@@ -1,4 +1,4 @@
-### Hello, i´m Victor Andrey 👋
+### Hello, i´m Vict Andrey 👋
 ##
 
 <div align="center">
