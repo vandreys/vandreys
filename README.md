@@ -13,7 +13,7 @@
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Victor-PHP" height="30" width="40" 
  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
-  <img align="center" alt="Victor-Git" height="33" width="38" 
+  <img align="center" alt="Victor-Git" height="33" width="37" 
  src="https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png">
   <img align="center" alt="Victor-Figma" height="30" width="40" 
  src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
