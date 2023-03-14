@@ -27,4 +27,3 @@ I am a Front-end Developer focusing on ReactJS.
   <a href = "mailto:victorandrey.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   </div>
-3
