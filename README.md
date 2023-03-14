@@ -12,6 +12,7 @@ I am a Front-end Developer focusing on ReactJS.
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Victor-Nodejs" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Victor-Git" height="33" width="37" src="https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png">
   <img align="center" alt="Victor-Figma" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
 
@@ -26,3 +27,4 @@ I am a Front-end Developer focusing on ReactJS.
   <a href = "mailto:victorandrey.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   </div>
+3
