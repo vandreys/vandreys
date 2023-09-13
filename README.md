@@ -1,5 +1,5 @@
 ### Welcome to my profile!
-I am a Front-end Developer focusing on ReactJS.
+I am a Front-end Developer.
 ##
 
 <div align="center">
