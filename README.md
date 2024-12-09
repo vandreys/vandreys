@@ -1,5 +1,5 @@
 ### Welcome to my profile!
-I am a Animation Designer Student and Front-end Developer.
+I am a Animation Designer Student and Virtual Reality Developer.
 ##
 
 <div align="center">
